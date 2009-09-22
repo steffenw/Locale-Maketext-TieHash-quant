@@ -1,0 +1,8 @@
+<SOFTPKG NAME="Locale-Maketext-TieHash-quant" VERSION="0.06">
+    <ABSTRACT>Locale::Maketext::TieHash::quant - Tying method quant to a hash</ABSTRACT>
+    <AUTHOR>Steffen Winkler &lt;steffenw at cpan.org&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <REQUIRE NAME="Params::Validate" VERSION="0" />
+        <CODEBASE HREF="PPM-Locale-Maketext-TieHash-quant-0.06.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>
